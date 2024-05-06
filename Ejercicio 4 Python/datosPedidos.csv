@@ -1,0 +1,7 @@
+patente_moto;ID_pedido;comidas_pedidas;tiempo_estimado_entrega;tiempo_real_entrega;precio_pedido
+ABC123;001;Hamburguesa, Papas fritas, Coca Cola;30;25;350.00
+ABC123;002;Pizza Margarita, Ensalada Caesar;45;35;1420.00
+ABC255;003;Pizza Margarita, Ensalada Caesar;45;35;2420.00
+ABC255;004;Pizza Margarita, Ensalada Caesar;45;35;420.00
+ABC124;005;Pizza Margarita, Ensalada Caesar;45;35;4200.00
+ABC222;005;Pizza Margarita, Ensalada Caesar;45;35;1500.00

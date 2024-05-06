@@ -1,0 +1,6 @@
+id_equipo;nombre;golesfavor;golescontra;diferencia;puntos
+1;Equipo A;20;10;10;15
+2;Equipo B;15;20;-5;10
+3;Equipo C;25;15;10;18
+4;Equipo D;12;18;-6;6
+5;Equipo E;18;12;6;12
